@@ -1,0 +1,12 @@
+# Raw gait recordings and derived feature tables
+*.csv
+*.npy
+*.npz
+*.pt
+*.zip
+walking-recognition-dataset-77people/DATA/
+walking-recognition-dataset-77people/**/*.txt
+
+# Generated model artifacts and caches
+Combined_RightPocket/stateful_gru_artifacts/
+Combined_RightPocket/stateful_gru_cache/
